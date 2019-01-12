@@ -1,5 +1,5 @@
 {
-    "baseURL": "http://localhost:8080",
+    "baseURL": "http://129.146.158.124:8080",
 	"pointsEndpoint": "/loyalty/v1/points",
     "couponEndpoint": "/loyalty/v1/coupon",
     "loginEndpoint": "/loyalty/v1/login",
