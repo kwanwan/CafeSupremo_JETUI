@@ -1,5 +1,5 @@
 /**
- * Application Name: Code180
+ * Application Name: CafeSupremo
  * App Config
  * Author: Rayes Huang
  */

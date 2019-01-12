@@ -1,5 +1,5 @@
 /**
- * Application Name: Code180
+ * Application Name: CafeSupremo
  * ViewModel: Reward
  * Author: Rayes Huang
  */

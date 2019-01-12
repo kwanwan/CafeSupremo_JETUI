@@ -1,5 +1,5 @@
 /**
- * Application Name: Code180
+ * Application Name: CafeSupremo
  * Application Controller javascript
  * Author: Rayes Huang
  */
