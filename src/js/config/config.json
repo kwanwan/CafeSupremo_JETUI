@@ -5,4 +5,4 @@
     "loginEndpoint": "/loyalty/v1/login",
     "loginEnabled": true,
     "rewardsEnabled": true,
-    "defaultUser": "30004"
+    "defaultUser": "30003"
