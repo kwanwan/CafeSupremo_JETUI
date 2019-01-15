@@ -1,6 +1,6 @@
 /**
  * Application Name: CafeSupremo
- * App Config
+ * App Config javascript
  * Author: Rayes Huang
  */
 define(['knockout', 'jquery', 'module', 'utils/json!../config/config.json'
